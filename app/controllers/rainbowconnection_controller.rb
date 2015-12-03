@@ -1,0 +1,11 @@
+class RainbowconnectionController < ApplicationController
+
+  def index
+
+  end
+
+  def about
+
+  end
+
+end
