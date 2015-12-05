@@ -409,6 +409,14 @@ i.glyphicon.glyphicon-ok {
     font-family: 'Karla-Bold';
     text-align: center;
 }
+.content-top h2 {
+    font-size: 3em;
+    color: #075396;
+    font-family: 'Karla-Bold';
+    text-align: center;
+    margin-bottom: 1em;
+}
+
 
 .events {
     padding: 5em 0;
