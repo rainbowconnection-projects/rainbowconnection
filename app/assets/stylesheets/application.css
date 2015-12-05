@@ -15,6 +15,5 @@
  *= require style
  *= require flexslider
  *= require default
- *= require menu_jquery
  *= require_tree .
  */
