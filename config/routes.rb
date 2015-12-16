@@ -4,6 +4,9 @@ Rails.application.routes.draw do
 
   get 'rainbowconnection/about'
   get 'rainbowconnection/contact'
+  get 'rainbowconnection/services'
+  get 'rainbowconnection/ceo'
+  get 'rainbowconnection/company'
 
 
   # You can have the root of your site routed with "root"
